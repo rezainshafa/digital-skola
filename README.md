@@ -1,0 +1,3 @@
+Untuk teks Pembukaan UUD 1945, saya tidak mengambil dari sumber resmi DPR RI di https://www.dpr.go.id/jdih/uu1945 karena saat ini website tersebut sedang dalam maintenance dan menampilkan error "Under Maintenance - PAGE NOT FOUND".
+
+Sebagai alternatif, saya mengambil teks dari website https://jdih.dpr.go.id/index/uu1945. Hal ini perlu dicatat karena mungkin ada perbedaan kecil dalam teks yang dapat mempengaruhi hasil analisis frekuensi kata.
